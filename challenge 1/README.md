@@ -1,6 +1,6 @@
 # Instructions
 
-## 1. How to access the endpoit:
+## 1. How to access the endpoint:
 The endpoint can be accessed at https://timgrob/messages/ and has a GET and a POST request endpoint
 
 ### GET Request:
